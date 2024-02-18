@@ -1,3 +1,4 @@
+<h1 style="color:green;font-weight:900"> Git For Cloning</h1>
 <strong>_Clone_</strong> <br> Meaning : Cloning a repo on our local machine<br> in Hindi : koi bhi repo jo github pe hai, or hum usse apne system pe copy/duplicate karna chahte hai, use clone. <br>Code : git clone <-some link->
 
 <strong>_Status_</strong> <br>Meaning : to check the status, is there any update in code? branch etc<br> in Hindi : kuch bhi change huva hai dekhna hai toh, use status.<br> Code : git status
@@ -24,3 +25,23 @@ Question. If everything goes fine like push is reflecting in github but then you
 Ans. <br><i>git remote set-url origin <- updated Link.git -></i><br>
 then you can put this command : <i>git push origin main</i>
 <br>
+
+<h2 style="color:red;font-weight:900">Git without cloning, Normal Way</h2>
+i.<strong><i>Create a empty folder</i></strong> <br>
+
+ii. <strong><i>git init</i></strong> <br>
+
+iii.<strong><i>git remote add origin <!--git link--></i></strong> <br>
+iv.<strong><i>git remote -v</i></strong> <br>
+Result : <br>
+origin <!--git link--> (fetch) <br>
+origin <!--git link--> (push)<br>
+<br>
+v.<strong><i>git branch</i></strong> <br>
+vi.<strong><i>git branch -M main</i></strong> <br>
+vii.<strong><i>git status</i></strong> <br>
+viii.<strong><i>git add .</i></strong> <br>
+ix.<strong><i>git commit -m "enter message"</i></strong> <br>
+x.<strong><i>git push origin main</i></strong> <br>
+
+<h3>All Set</h3>
