@@ -26,7 +26,7 @@ Ans. <br><i>git remote set-url origin <- updated Link.git -></i><br>
 then you can put this command : <i>git push origin main</i>
 <br>
 
-<h2 style="color:red;font-weight:900">Git without cloning, Normal Way</h2>
+<h2 style="color:red !important;background-color:blue;font-weight:900">Git without cloning, Normal Way</h2>
 i.<strong><i>Create a empty folder</i></strong> <br>
 
 ii. <strong><i>git init</i></strong> <br>
