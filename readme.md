@@ -26,7 +26,7 @@ Ans. <br><i>git remote set-url origin <- updated Link.git -></i><br>
 then you can put this command : <i>git push origin main</i>
 <br>
 
-<h2 style="color:red !important; background-color:blue;font-weight:900">Git without cloning, Normal Way</h2>
+<h2>Git without cloning, Normal Way</h2>
 i.<strong> <i>Create a empty folder</i></strong> <br>
  
 ii. <strong> <i>git init</i></strong> <br>
@@ -44,4 +44,5 @@ viii.<strong> <i>git add .</i></strong> <br>
 ix.<strong> <i>git commit -m "enter message"</i></strong> <br>
 x.<strong> <i>git push origin main</i></strong> <br>
 
-<h3>All Set</h3>
+<h2>All Set</h2>
+![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFpaWhla2pubmwxazJsb3c0NGZjdTQ2d3R2NXJwb3d5ZjNuZWJkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGK1g88HZRa2FlKGbz/giphy.gif)
