@@ -44,5 +44,5 @@ viii.<strong> <i>git add .</i></strong> <br>
 ix.<strong> <i>git commit -m "enter message"</i></strong> <br>
 x.<strong> <i>git push origin main</i></strong> <br>
 
-<h2>All Set</h2>
+<h2>That's It, We are done with this repo and git.</h2>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFpaWhla2pubmwxazJsb3c0NGZjdTQ2d3R2NXJwb3d5ZjNuZWJkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGK1g88HZRa2FlKGbz/giphy.gif" width="300">
