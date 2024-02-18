@@ -45,3 +45,4 @@ ix.<strong> <i>git commit -m "enter message"</i></strong> <br>
 x.<strong> <i>git push origin main</i></strong> <br>
 
 <h3>All Set</h3>
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/mGK1g88HZRa2FlKGbz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Friends-episode-1-season-9-friends-tv-mGK1g88HZRa2FlKGbz">via GIPHY</a></p>
