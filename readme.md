@@ -28,7 +28,7 @@ then you can put this command : <i>git push origin main</i>
 
 <h2 style="color:red !important;background-color:blue;font-weight:900">Git without cloning, Normal Way</h2>
 i.<strong><i>Create a empty folder</i></strong> <br>
-
+ 
 ii. <strong><i>git init</i></strong> <br>
 
 iii.<strong><i>git remote add origin <!--git link--></i></strong> <br>
