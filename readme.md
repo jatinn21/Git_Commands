@@ -12,3 +12,9 @@ Meaning : it is the record of change <br>in Hindi : kya commit ho raha hai, kya 
 
 <strong>_Push_</strong><br>
 Meaning : upload local repo content to remote repo (Github Repo) <br>in Hindi : yaha ke changes abh github pe reflect karenge<br> Code : git push origin main
+
+<i>Problems i have faced </i>:<br>
+Question. If everything goes fine like push is reflecting in github but then you changed the github repo link then how to do push again in that repo?
+Ans. <br><i>git remote set-url origin <- updated Link.git -></i>
+then you can put this command : <i>git push origin main</i>
+<br>
