@@ -15,6 +15,6 @@ Meaning : upload local repo content to remote repo (Github Repo) <br>in Hindi : 
 
 <i>Problems i have faced </i>:<br>
 Question. If everything goes fine like push is reflecting in github but then you changed the github repo link then how to do push again in that repo?
-Ans. <br><i>git remote set-url origin <- updated Link.git -></i>
+Ans. <br><i>git remote set-url origin <- updated Link.git -></i><br>
 then you can put this command : <i>git push origin main</i>
 <br>
