@@ -19,14 +19,14 @@ Here git push is the command <br>
 <b>origin</b> : default name given to remote repo from which your local repo was cloned. It's essentially an alias for the URL of the remote repo.<br>
 <b>main</b> : this is the name of the branch you are pushing to the remote repo. 
 <p>
-     
+       
 <i>Problems i have faced </i>:<br>
 Question. If everything goes fine like push is reflecting in github but then you changed the github repo link then how to do push again in that repo?
 Ans. <br><i>git remote set-url origin <- updated Link.git -></i><br>
 then you can put this command : <i>git push origin main</i>
 <br>
 
-<h2 style="color:red !important;background-color:blue;font-weight:900">Git without cloning, Normal Way</h2>
+<h2 style="color:red;background-color:blue;font-weight:900">Git without cloning, Normal Way</h2>
 i.<strong><i>Create a empty folder</i></strong> <br>
  
 ii. <strong><i>git init</i></strong> <br>
