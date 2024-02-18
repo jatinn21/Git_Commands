@@ -31,11 +31,11 @@ i.<strong><i>Create a empty folder</i></strong> <br>
 
 ii. <strong><i>git init</i></strong> <br>
 
-iii.<strong><i>git remote add origin <!--git link--></i></strong> <br>
+iii.<strong><i>git remote add origin <--git link--></i></strong> <br>
 iv.<strong><i>git remote -v</i></strong> <br>
 Result : <br>
-origin <!--git link--> (fetch) <br>
-origin <!--git link--> (push)<br>
+origin <--git link--> (fetch) <br>
+origin <--git link--> (push)<br>
 <br>
 v.<strong><i>git branch</i></strong> <br>
 vi.<strong><i>git branch -M main</i></strong> <br>
