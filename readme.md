@@ -45,4 +45,4 @@ ix.<strong> <i>git commit -m "enter message"</i></strong> <br>
 x.<strong> <i>git push origin main</i></strong> <br>
 
 <h2>All Set</h2>
-![](https://github.com/jatinn21/Git_Commands/blob/main/giphy.gif)
+<img src="https://media.giphy.com/media/U7c2TesYruxCiw11qK/giphy.gif" width="300">
