@@ -45,3 +45,9 @@ ix.<strong><i>git commit -m "enter message"</i></strong> <br>
 x.<strong><i>git push origin main</i></strong> <br>
 
 <h3>All Set</h3>
+
+<style>
+    body{
+        color:green
+    }
+</style>
